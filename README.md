@@ -4,7 +4,7 @@ Repositório para o projeto GoFinances desenvolvido durante o bootcamp GoStack 1
 
 ### Descrição 
 
-GoFinaces é uma aplicação de gestão de finanças desenvolvida utilizando Node,TypeScript,Express, TypeORM e banco dados postgres para sua API REST e para o front-end foi utilizado TypeScript integrado ao ReactJS. Para cadastrar novas transações é possível importar um arquivo .CSV seguindo o [modelo](https://github.com/Rocketseat/bootcamp-gostack-desafios/blob/master/desafio-database-upload/assets/file.csv). Tanto o back-end quanto o front-end foram desenvolvidos durantes desafios propostos no bootcamp GoStack 13 na [Rocketseat](https://rocketseat.com.br/).
+GoFinaces é uma aplicação de gestão de finanças desenvolvida utilizando Node,TypeScript,Express, TypeORM e banco de dados postgres para sua API REST e para o front-end foi utilizado TypeScript integrado ao ReactJS. Para cadastrar novas transações é possível importar um arquivo .CSV seguindo o [modelo](https://github.com/Rocketseat/bootcamp-gostack-desafios/blob/master/desafio-database-upload/assets/file.csv). Tanto o back-end quanto o front-end foram desenvolvidos durantes desafios propostos no bootcamp GoStack 13 na [Rocketseat](https://rocketseat.com.br/).
 
 ### Como o projeto está atualmente
 
